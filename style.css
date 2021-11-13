@@ -1,0 +1,30 @@
+
+    
+
+.heading{
+    width:100%;
+    line-height: 2;
+    top:0px;
+    bottom:0px;
+    text-align: left;
+
+
+}
+#int{
+    float: right;
+}
+canvas{
+    border:2px white solid;
+    box-shadow: 2px 2px 2px yellow;
+   border-radius: 30px;
+  
+}
+.copy_right_footer{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    
+}
